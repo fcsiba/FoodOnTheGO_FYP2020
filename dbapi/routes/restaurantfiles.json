@@ -1,0 +1,54 @@
+{
+    "title": "Restaurants Name and Images",
+
+    "data":[
+    {
+    "id": "01",
+    "name": "KFC",
+    "image": "https://www.strategicmanagementinsight.com/img/company-logos/kfc.png",
+    "active": 1
+    },
+    {
+    "id": "02",
+    "name": "China Grill",
+    "image": "https://i.dawn.com/large/2019/04/5cb6f887bbf56.jpg",
+    "active": 1
+    },
+    {
+    "id": "03",
+    "name": "OPTP",
+    "image": "https://optp.biz/cms/Uploads/2020/Feb/010220201133015206875.jpg",
+    "active": 1
+    },
+    {
+    "id": "04",
+    "name": "NewYork Pizza",
+    "image": "https://lh3.googleusercontent.com/proxy/dcXSgEQZ6S8ngfXs5tABBCVvaiwKEQOvzzWr-fB2zG4Ow6SyccdSBL0Eq9QUjHclA-dEaS49wiwJ4B8BSHtDZU1zrrc",
+    "active": 1
+    },
+    {
+    "id": "06",
+    "name": "Pizza Hut",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pizza_Hut_1967-1999_logo.svg/1200px-Pizza_Hut_1967-1999_logo.svg.png",
+    "active": 1
+    },
+    {
+    "id": "07",
+    "name": "BBQ Tonight",
+    "image": "https://www.acupofkarachi.com/wp-content/uploads/2017/07/bbt-logo.jpg'",
+    "active": 1
+    },
+    {
+    "id": "08",
+    "name": "McDonalds",
+    "image": "https://i1.wp.com/www.eatthis.com/wp-content/uploads/2018/12/the-golden-mcdonalds-arch.jpg?fit=1200%2C879&ssl=1\r\n",
+    "active": 1
+    },
+    {
+    "id": "09",
+    "name": "Pizza Point",
+    "image": "https://pbs.twimg.com/media/Ck5lkDrUgAAmVhy.jpg",
+    "active": 1
+    }
+    ]
+}

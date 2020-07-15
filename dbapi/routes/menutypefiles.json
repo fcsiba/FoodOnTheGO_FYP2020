@@ -1,0 +1,158 @@
+[
+    {
+    "MenuTypeID": "M01",
+    "MenuTypeName": "Deals and Promotions",
+    "id": "01",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M02",
+    "MenuTypeName": "Main Course",
+    "id": "01",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M03",
+    "MenuTypeName": "Beverages",
+    "id": "01",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M04",
+    "MenuTypeName": "Starter",
+    "id": "02",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M05",
+    "MenuTypeName": "Main Course",
+    "id": "02",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M06",
+    "MenuTypeName": "Desserts",
+    "id": "02",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M07",
+    "MenuTypeName": "Beverages/Drinks",
+    "id": "02",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M08",
+    "MenuTypeName": "Deals and Discounts",
+    "id": "03",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M09",
+    "MenuTypeName": "Main Course",
+    "id": "03",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M10",
+    "MenuTypeName": "Beverages",
+    "id": "03",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M11",
+    "MenuTypeName": "Deals and Discount",
+    "id": "04",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M12",
+    "MenuTypeName": "Main Course",
+    "id": "04",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M13",
+    "MenuTypeName": "Beverages",
+    "id": "04",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M14",
+    "MenuTypeName": "Deals and Discounts",
+    "id": "06",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M15",
+    "MenuTypeName": "Main Course",
+    "id": "06",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M16",
+    "MenuTypeName": "Beverages",
+    "id": "06",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M17",
+    "MenuTypeName": "Starter",
+    "id": "07",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M18",
+    "MenuTypeName": "Main Course",
+    "id": "07",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M19",
+    "MenuTypeName": "Beverages",
+    "id": "07",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M20",
+    "MenuTypeName": "Deals and Promotions",
+    "id": "08",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M21",
+    "MenuTypeName": "Main Course",
+    "id": "08",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M22",
+    "MenuTypeName": "Beverages",
+    "id": "08",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M23",
+    "MenuTypeName": "Desserts",
+    "id": "08",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M24",
+    "MenuTypeName": "Deals and Discounts",
+    "id": "09",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M25",
+    "MenuTypeName": "Main Course ",
+    "id": "09",
+    "active": 1
+    },
+    {
+    "MenuTypeID": "M26",
+    "MenuTypeName": "Beverages",
+    "id": "09",
+    "active": 1
+    }
+    ]

@@ -1,0 +1,156 @@
+[
+    {
+    "MenuItemID": "MT01",
+    "MenuTypeID": "M01",
+    "MenuItemName": "9 Pcs Chicken + 2 Coleslaws + 1 Fries Bucket + 1.5L Drink\r\n",
+    "Price": 1575,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT02",
+    "MenuTypeID": "M01",
+    "MenuItemName": "2 Zingers + 2 Krunch Burgers + 4 Pcs Chicken + 2 Dinner Rolls + 1.5 Ltr Drink\r\n",
+    "Price": 1595,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT03",
+    "MenuTypeID": "M02",
+    "MenuItemName": "Kentucky",
+    "Price": 470,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT04",
+    "MenuTypeID": "M02",
+    "MenuItemName": "Zinger Stacker",
+    "Price": 470,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT05",
+    "MenuTypeID": "M03",
+    "MenuItemName": "Pepsi",
+    "Price": 60,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT06",
+    "MenuTypeID": "M04",
+    "MenuItemName": "Crispy Spring Roll",
+    "Price": 475,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT07",
+    "MenuTypeID": "M04",
+    "MenuItemName": "Dynamite Chicken",
+    "Price": 550,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT08",
+    "MenuTypeID": "M05",
+    "MenuItemName": "Sweet and Spicy basil Beef",
+    "Price": 690,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT09",
+    "MenuTypeID": "M05",
+    "MenuItemName": "Black Pepper Chicken",
+    "Price": 695,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT10",
+    "MenuTypeID": "M06",
+    "MenuItemName": "Mango Icecream",
+    "Price": 320,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT11",
+    "MenuTypeID": "M07",
+    "MenuItemName": "Mineral Water",
+    "Price": 70,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT12",
+    "MenuTypeID": "M08",
+    "MenuItemName": "Nuggets and Fries",
+    "Price": 580,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT13",
+    "MenuTypeID": "M09",
+    "MenuItemName": "Chicken Quesadilla",
+    "Price": 430,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT14",
+    "MenuTypeID": "M09",
+    "MenuItemName": "Chicken Jalapeno Burger",
+    "Price": 367,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT15",
+    "MenuTypeID": "M10",
+    "MenuItemName": "Sprite",
+    "Price": 100,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT16",
+    "MenuTypeID": "M11",
+    "MenuItemName": "Small pizza + 2 pc Garlic Bread + 345 ml Drink",
+    "Price": 369,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT17",
+    "MenuTypeID": "M11",
+    "MenuItemName": "16\" Jumbo Pizza + 8 pc Cheesy Bread + 1.5 Ltr Drink",
+    "Price": 1199,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT18",
+    "MenuTypeID": "M12",
+    "MenuItemName": "\r\nMedium Pan 9\" Pizza",
+    "Price": 869,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT19",
+    "MenuTypeID": "M12",
+    "MenuItemName": "Large Pan 9\" Pizza",
+    "Price": 1899,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT20",
+    "MenuTypeID": "M13",
+    "MenuItemName": "Sprite",
+    "Price": 70,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT21",
+    "MenuTypeID": "M14",
+    "MenuItemName": "Half Calzone + 1.5 Ltr Drink",
+    "Price": 1149,
+    "active": 1
+    },
+    {
+    "MenuItemID": "MT22",
+    "MenuTypeID": "M15",
+    "MenuItemName": "Large Pizza",
+    "Price": 1125,
+    "active": 1
+    }
+    ]
